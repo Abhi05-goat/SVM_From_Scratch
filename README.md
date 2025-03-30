@@ -89,6 +89,9 @@ svm_classifier = SVM(lambda_parameter=0.001, learning_rate=0.01, epochs=1000)
 ## Results
 
 The classifier successfully learns a **linear decision boundary** that separates the two classes effectively, achieving high accuracy on linearly separable data.
+![image](https://github.com/user-attachments/assets/b8f89dee-6434-4e1c-822b-fa3f525eb9ea)
+![image](https://github.com/user-attachments/assets/53d4be31-258f-47e2-9484-28be8d17564e)
+
 
 ## Author
 
@@ -101,3 +104,4 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ---
 
 Feel free to contribute by submitting pull requests or reporting issues!
+
